@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import ProductItem from "./item";
+import ProductItem from "./Item";
 
 const ProductContainer = styled.div`
   display: flex;
